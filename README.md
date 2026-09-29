@@ -208,7 +208,7 @@ Make sure the following are installed:
 ## 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/rithiknagar/ecommerce-knowledge-graph.git
 cd ecommerce-knowledge-graph
 ```
 
